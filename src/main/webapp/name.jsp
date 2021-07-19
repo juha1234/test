@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>name.jsp입니다.</h1>
+<h1>name.김주하입니다.</h1>
 </body>
 </html>
